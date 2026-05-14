@@ -84,7 +84,7 @@ project/
 │
 ├── Test Data/              # New audio samples for prediction
 │
-├── main.py                 # Main application (your code)
+├── main.py                 # Main application 
 ├── waveplot.png            # Generated visualization
 ```
 
