@@ -1,6 +1,6 @@
 # 🎯 **Project Title**
 
-**Live Event Detection for People’s Safety Using Audio Analysis and LightGBM**
+<h1>Live Event Detection for People’s Safety Using Audio Analysis and LightGBM</h1>
 
 ---
 
@@ -92,9 +92,19 @@ project/
 
 # ⚙️ **Installation & Setup**
 
-### 1️⃣ Install Python (>=3.8 recommended)
+### 1️⃣ Clone the repository
 
-### 2️⃣ Install Required Libraries
+```bash
+git clone https://github.com/PoreddiArpitha/LIVE-EVENT-DETECTION-FOR-PEOPLE-S-SAFETY-USING-ML.git
+```
+
+### 2️⃣ Create a virtual environment
+
+```bash
+python -m venv myenv
+myenv\Scripts\activate
+```
+### 3️⃣ Install required librabries
 
 Run this command:
 
@@ -109,7 +119,7 @@ pip install numpy pandas matplotlib seaborn librosa opencv-python scikit-learn x
 1. Run the Python file:
 
 ```bash
-python main.py
+python Main.py
 ```
 
 2. GUI will open with buttons:
@@ -205,7 +215,7 @@ Each audio file is converted into a feature vector using:
 
 # 👩‍💻 Author
 
-Name: Arpita Reddy
+Name: Poreddi Arpitha
 (B.Tech AI&ML Student)
 Role: Developer / Research Student
 
